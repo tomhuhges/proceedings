@@ -1,0 +1,87 @@
+[Link to original online doc](https://pad.riseup.net/p/fac-over-flow)
+
+FAC OVERFLOW
+
+
+TLDR: we would like to create a co-operative web-dev freelance group
+we would work together on client's projects and support each other. there are different ways to sort out pay options (ie. would we pool money and split the pay - people could do tasks that do not include dev ie. book-keeping, administration, managing email accounts, customer liasing, social media management) 
+
+Mark and I are in the library at Pancras Square and had a short discussion about how we want to move forward.
+
+From that I started to show both Mark and Piotr my friend's site, he knows 0 Javascript and uses bootstrap to make sites for clients. He hosts their sites on his hostgator account and is basically a programming pre-noob. He charges £80 for an hour of his time and I know he has clients because he has asked me to help him with various sites in the past.
+k).
+Mark has also contacted Alt-gen (the group for coops that FAC is a member of). I'm sure he can tell more about this. http://www.altgen.org.uk/ <=
+
+I'm in the process of starting a coop with another group of people and we filled this information out recently. If you would like to be involved please write down the answers to the qs / you don't have to answer them all they are mainly just prompts to get you to think. It's a little easier to keep track of things here than on whatsapp.
+
+WARNING PLEASE TAKE NOTE OF THIS : 
+THIS PAD IS PUBLIC AND EVEN IF YOU DELETE SOMETHING IT WILL STILL SHOW IN THE TIME 
+SLIDER (TOP RIGHT HAND CORNER ON DESKTOP) I WOULD STRONGLY ADVISE AGAINST ENTERING 
+ANY PERSONAL INFORMATION (NAME, EMAIL, BANK DETAILS?!?!?!) YOU DON'T WANT THE INTERNET TO HAVE
+
+(If you disagree with co-op structuring please make that known in your question answers! This is very much planning stages and I don't want anyone to feel rail-roaded into anything)
+
+Question list:
+
+1.Name:
+2.What is your priority?
+3.What do you hope to get out of this experience?
+4.How much time can you devote to this?
+5.What would you like to make / client base?
+
+Q set 2
+
+What you should have at the end of this pre-start stage : By the end of this pre-start stage, it's useful to have six things in place:
+
+a. A good idea of the "vision" of the co-operative – why it exists, what it is going to do and where it intends to be in 1 and 3 years.
+b. A strong sense of what the business or trade of the co-operative will look like, what it's product or service will be and who its customers or users will be.
+c. An elevator pitch – you need to be able to explain your co-operative business in the time it takes to share a lift?
+d. Clarity on who the members of the co-operative are.
+e. An idea of who is doing something similar and who can help you.
+f. A clear idea on where to go next for specialist business support
+
+
+
+1. E (leanor) K
+2. My priority is a: freelancing and b: improving my code skills, moving to fullstack
+3. I hope to improve my code skills but work on projects in a supportive environment, where people can exchange coding knowledge and learn along together while working on projects for money !!! ! !
+4. I can devote a good amount of week day time but not weekends. At least 4 hours a day, possibly more depending on where
+5. I want to make every thing ! I think i'm more interested in back end stuff, but obviously front end would be a priority as freelancers 
+a. the coop is for us to get work (as much work as possible, pooling social media and portfolios) and group together to work on projects, using github and git, to get money from clients. i reckon we can probably get a lot of clients and be able to have a lighter work load as we work together. 1 year: we have a strong client base and can offer services like maintenance or updating as they want, 3 years: we are bigger and better than year 1 !
+b. product: cool, functional sites, hosting, easily maintained sites with blogs etc. clients/customers/users: everyone who wants a nicely designed site
+c. *fake elevator pitch* Hello! We are starting a coop where a group of web developers will work together, pooling clients, and collaborating on building sites. We will have a good social media presence (leading to a larger client base) and client-liason for maintence/updates/etc.
+d. Members can be anyone with basic front end or back end knowledge, who have interest in joining the coop to improve their skills and to share their knowledge. People have different strengths so it makes sense to broaden who can join.
+e. Alt gen can help us. FAC are ? ? ?  doing something similar ?  ??  ? 
+f. We should go to Altgen because they are a specific group that offers advice to freelancer coops. 
+
+1) Mark Mitchell
+2) Learning webdev technologies to a reasonable level of confidence, build a portfolio, find work as a junior dev - within 6 months ideally
+3) Sharing knowledge. establish a network for social and professional purposes, colloaborate on portfolio projects. Maybe even establish a self-sustaining body that can have a life beyond my initial involvement. FAC is a good example, though perhaps our model will be different in various ways.
+4) 3-4 weekdays per week. circa 25 hours p/w
+5) Websites and cross-platform apps. Vary happy to do pro bono work for charities etc initially. Definitely interested in having an ethical / progressive / agenda
+a) The co-op could be a branded group of fledgling developers with a dual emphasis on learning and delivering real commercial projects. Whereas FAC has sequential bootcamps, our co-op op could be a more fluid ongoing concern. In one year we could have set the initial model and demonstrated that it works. In 3 years the organisation should have been through a few iterations and established a sustainable approach and positive reputation.
+b) websites mainly, and perhaps apps, for small businesses, charities, non-profits, social enterprise... anyone who can benefit from a trade-off of cost for experience or product complexity. I would *hope* that if the endeavour was in any way successful, it would start to resemble a real business reasonably quickly. 
+c) There are a lot of people out there trying to learn and overcome hurdles on their own - our co-op offers an inclusive, supportive environment in which people can share their knowledge, not just of technical disciplines, but the wider set of professional skills, soft skills, industry knowledge etc. We want to encourage new talent, help aspiring developers get real-world working experiences and establish a respected route for self-taught coders into the industry.
+d) Anyone with a sincere committment to learning and becoming a professional developer who can benefit from (and contribute to) the community and uphold its values.
+e) I'm not able to find any examples of similar groups other than FAC. Will continue to look!
+f) Other than alt-gen? not sure
+
+
+1. Dan M
+2. My priorities are to conitnue learning to code while developing a portfolio (getting paid to do so would be nice)
+3. I hope to develop a more diverse portfolio of sites and learn from others.
+4. I am working on my own project at the moment, but I could deliver a full work day a week (it can be as a single work day or spread out).
+5. I am really interested in continuing to develop full stack React and React-Native apps.  Where a website is neither, I am more interested in the back-end, but can get involved with everything.
+
+ 
+ 1. tom hughes
+ 2. want to continue learning/collaborating, adding to my portfolio (as others said, making a bit of money would be nice! will also be looking for jobs at the same time)
+ 3. learning how to work in a dev team while working with real clients and solving real problems
+ 4. i could do a couple (2-3) days a week. would be happy to do weekends if needed, happy to be flexible
+ 5. like dan, i've been learning react and would love to continue making react projects. i'd be more happy with frontend as that's what i prefer, but i've worked with databases + aws before. i have a design + copywriting background also. not bothered about who we work for as long as the work is interesting/challenging/fun! but ethical/progressive/liberal sounds good.
+ 
+ 1. Josef Z
+ 2. Learning how to work in a team.
+ 3. I hope i will learn how to work and communicate in a team together with other developers.
+ 4. I think i can contribute parttime (8-16 hours a week, from the half of februari), unless i can get some work of my existing clients into this group.
+ 5. My ideal application would be one, where no customers (at least not direct) are involved, something like uber, or another SAAS (Software as a Service) concept.
