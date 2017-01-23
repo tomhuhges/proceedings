@@ -85,3 +85,9 @@ f) Other than alt-gen? not sure
  3. I hope i will learn how to work and communicate in a team together with other developers.
  4. I think i can contribute parttime (8-16 hours a week, from the half of februari), unless i can get some work of my existing clients into this group.
  5. My ideal application would be one, where no customers (at least not direct) are involved, something like uber, or another SAAS (Software as a Service) concept.
+
+ 1. Omar Z
+ 2. Working in a team.
+ 3. I hope that i will be able to team together with other developers.
+ 4. I can contribute parttime ( 8 - 16 hours ) per week
+ 5. I'm interested in developing solutions to any kind of (business) problem. 
