@@ -16,6 +16,8 @@ I spent the next 6 years working my way up through that company: technical super
 
 For the last year I've been at London Metropolitan University as a project manager, but that has been a very difficult time for me and has made me realise that I need a change of career.
 
+Ever since I got a raspberry pi in 2012 I've been a huge linux enthusiast and it has given me back my confidence to learn and be in control of technology.
+
 Therefore - CODING. A return to my childhood obsession!
 
 ## Personal Life
@@ -59,9 +61,13 @@ Although I am not a leader by inclination, I am happy to accept responsibility i
 
 I'm kind of obsessed with organisational learning and the effective use of media an technical tools to serve the org's needs. I love to experiment with incentives and productivity techniques, and although I might come across as a bit conservative and controlling, I'm actually very comfortable with change and flux and I enjoy taking radical and irreverent approaches to problems.
 
+Although no expert, I'm comfortable at the command line, messing around with config files, setting up and configuring linux systems etc. 
+
+I'm also prone to a bit of illustration and graphic design, and can find my way around photoshop, GIMP etc pretty well. 
+
 ## Personality
 
-My myers-briggs personality type is a solid INTJ. 
+My myers-briggs personality type is a solid [INTJ](https://duckduckgo.com/?q=intj&atb=v4&ia=web) 
 
 END
 
